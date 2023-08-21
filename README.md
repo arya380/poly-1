@@ -1,4 +1,4 @@
-# AnimePiece - ERC721 NFT Contract
+# cowboy - ERC721 NFT Contract
 
 This project provides a simple ERC-721 compliant smart contract to create and manage non-fungible tokens (NFTs) on the Polygon blockchain. Users can generate new NFTs, set their metadata (URI), and check the overall supply and balance of NFTs.
 
